@@ -2,7 +2,9 @@
 📂A Vaccination Records App
 
 Project Title: Vaccine Record Management System
+
 Academic Context: Final Year B.Sc. IT Capstone Project
+
 Role: Lead Developer (Flutter/Dart implementation)
 
 📌 Project Overview -
@@ -20,7 +22,9 @@ AI Integration: Leveraged Generative AI for:
 
 ✨ Key Features
 100% Paperless Management: Digitizes physical vaccine cards into a searchable, organized mobile interface.
+
 Encrypted Privacy Vault: Implemented Flutter Secure Storage to ensure all sensitive health data is encrypted on-device, meeting modern privacy standards.
+
 Seamless Navigation: Intuitive UI flow designed for users of all technical levels.
 
 AI-Optimized Architecture: Utilized AI tools to refine the app's state management and ensure clean, modular code.
