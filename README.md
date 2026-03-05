@@ -1,4 +1,4 @@
-# VaxiCare-
+# VaxiCare
 📂A Vaccination Records App
 
 Project Title: Vaccine Record Management System
