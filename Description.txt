@@ -1,0 +1,45 @@
+.Basic Modules:1. User Authentication
+
+● User Login & Registration – Secure account creation & login
+
+● Forgot Password – Password recovery options
+
+2. User Dashboard
+
+● Health Profile – Personal details, allergies, conditions
+
+● Upcoming Appointments – Scheduled vaccinations
+
+● Vaccination Records – Past immunizations & status
+
+3. Vaccination Records Management
+
+● Add, edit, delete vaccination details (date, type, provider)
+
+● View complete immunization history
+
+4. Schedule Appointment
+
+● Book & manage vaccination appointments
+
+● Integration with reminders & notifications
+
+5. Notifications & Alerts
+
+● Timely reminders for upcoming vaccinations
+
+● Customizable alerts for users
+
+6. Vaccine Information & Resources
+
+● Searchable database on vaccine types, schedules, and side effects
+
+7. Help & Support
+
+● FAQs & troubleshooting guides
+
+8.Profile & Settings
+
+● Manage personal details & preferences
+
+● Log out option for security.
